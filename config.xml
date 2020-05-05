@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "skyshoot.pokemonduy.com"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Sky Shoot</name>
+
+  <description>
+      Sky Shoot Game
+  </description>
+
+  <author href="https://pokemonduy.com" email="duyminecraft0907@gmail.com">
+      Pokemonduy
+  </author>
+<icon src="icon.png" />
+<preference name="phonegap-version" value="cli-9.0.0" />
+</widget>
